@@ -70,6 +70,12 @@ const Menuitems = [
     icon: IconAperture,
     href: "/sample-page",
   },
+  {
+    id: uniqueId(),
+    title: "Casella",
+    icon: IconAperture,
+    href: "/box-page",
+  },
 ];
 
 export default Menuitems;
